@@ -1,0 +1,39 @@
+body {
+    background: rgb(3, 56, 80);
+}
+
+main {
+    display: flex;
+    
+}
+
+.imagem {
+    width:25%;
+}
+
+h3 {
+    padding-left: 30px;
+    font-size: 22px;
+}
+h1 {
+    color: rgb(79, 212, 230);
+    text-align: center;
+}
+h2 {
+    color: rgb(1, 126, 115) ;
+}
+h3 {
+    color: rgb(0, 238, 255);
+}
+h4 {
+    color: rgb(235, 239, 243);
+    text-align: center;
+    font-size: 12px;
+}
+.logo {
+    width: 50%;
+    
+}
+div {
+    padding-left: 1100px;
+}
